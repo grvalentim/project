@@ -9,5 +9,6 @@ if ($age >= 18) {
 } elseif (($age < 18) && ($age >= 16)) {
     echo "I'll think about it";
 } else echo "GO AWAY!!!!!";
+//comment
 ?>
 
